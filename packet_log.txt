@@ -1,0 +1,906 @@
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.77.53 --> Destination IP: 192.168.77.75 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'm.media-amazon.com.'" 
+[40m[31mSource IP: 192.168.77.53 --> Destination IP: 192.168.77.75 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'm.media-amazon.com.'" 
+[40m[31mSource IP: 192.168.77.53 --> Destination IP: 192.168.77.75 | Protocol: 17
+[34mUDP Payload: DNS Ans "b'm.media-amazon.com.'" 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 148.72.164.11 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 148.72.164.11 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
+[40m[31mSource IP: 192.168.77.75 --> Destination IP: 151.139.188.76 | Protocol: 6
+[36mTCP Payload: 
+[40m[31mSource IP: 151.139.188.76 --> Destination IP: 192.168.77.75 | Protocol: 6
+[36mTCP Payload: Raw
